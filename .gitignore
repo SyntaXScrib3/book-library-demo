@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm specific
+.idea/
+*.iml
+
+# VSCode (if used alongside)
+.vscode/
+
+# macOS (if applicable)
+.DS_Store
+
+# Windows (if applicable)
+Thumbs.db
+desktop.ini
+
+# Other common
+*.log
+*.pot
+*.mo
+
+# Optional: ignore dotenv files if used for secrets
+.env
